@@ -2,9 +2,8 @@
 layout: post
 title: Descrição do projeto de revisão
 subtitle: 'Sistema de compra e venda de cartas de MAGIC: The Gathering'
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: [[File:Magic the Gathering - Commander.jpg|thumb|Magic the Gathering - Commander]]
+thumbnail-img: [[File:Magic the Gathering - Commander.jpg|thumb|Magic the Gathering - Commander]]
 tags: [projeto, revisao]
 ---
 
