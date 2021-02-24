@@ -22,7 +22,7 @@ Em geral o UNIKUT deve ser capaz de:
 
 - Equipes vem ser formadas por até 4 Alunos (NÃO SÃO ACEITAS EQUIPES COM MAIS DE 4)
 - Membros podem ser trocados ou incluídos nas equipes
-- Os próprios alunos são responsáveis em incluir os elementos no seguinte ***link***
+- Os próprios alunos são responsáveis em incluir os elementos no seguinte [Planilha das Equipes](https://docs.google.com/spreadsheets/d/1kHimE3t3mSA1hBR7iS71gOm9NGfJyL0_RApI3UgM4_4/edit?usp=sharing)
 
 ## Sobre o Projeto
 
