@@ -2,8 +2,8 @@
 layout: post
 title: Descrição do projeto de revisão
 subtitle: 'Sistema de compra e venda de cartas de MAGIC: The Gathering'
-cover-img: [[File:Magic the Gathering - Commander.jpg|thumb|Magic the Gathering - Commander]]
-thumbnail-img: [[File:Magic the Gathering - Commander.jpg|thumb|Magic the Gathering - Commander]]
+cover-img: https://upload.wikimedia.org/wikipedia/commons/6/67/Magic_the_Gathering_-_Commander.jpg
+thumbnail-img: https://upload.wikimedia.org/wikipedia/commons/6/67/Magic_the_Gathering_-_Commander.jpg
 tags: [projeto, revisao]
 ---
 
