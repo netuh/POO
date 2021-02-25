@@ -9,15 +9,14 @@ Magic: the Gathering, M:TG, MTG ou simplesmente Magic, é um jogo de cartas cole
 
 # Funcionalidades Básicas
 
-Em geral o UNIKUT deve ser capaz de:
-
-- As informações de uma carta são:
+As informações de uma carta são:
  - Número
  - Nome
  - Descrição
  - Ano de lançamento
  - preço 
-- O sistema deve permitir:
+
+O sistema deve permitir:
  - Anunciar uma carta
  - Comprar uma carta
  - listar todas as cartas
