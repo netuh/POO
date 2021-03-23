@@ -30,8 +30,13 @@ Em geral o UNIKUT deve ser capaz de:
 - Todos os projetos serão verificados pela [ferramenta MOSS](https://theory.stanford.edu/~aiken/moss/)
 - entre 20% e 30% os projetos serão monitorados de perto, alguns podem ser chamados a explicar o código.
 - Um índice maior que 30%, o projeto será ZERADO
+- Todo o sistema **pode** ser feito com interação pela **linha de comando**. Interação por outros meios (sistema UI, web ou Mobile) será considerado um adicional.
 
 ## Sobre as entregas
 
 - Entregas devem ser feitas antes do pazo limite até a meia noite (com três horas de tolerância)
 - Cada dia de atraso, o aluno ou equipe perde 1 (UM) ponto por dia de atraso. 
+
+## Primeira Entrega
+
+-Descrevemos os artefatos da primeira fase do processo [primeira entrega](https://netuh.github.io/POO/17-03-2021-descicao-de-projeto/)
